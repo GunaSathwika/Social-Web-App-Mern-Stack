@@ -50,6 +50,9 @@ A full-stack social media application built with modern web technologies, enabli
 |-----------|--------------|
 | ![Home](https://github.com/user-attachments/assets/3e61d39f-9658-43c9-b9f7-cb462c2c1659) | ![Profile](https://github.com/user-attachments/assets/55e38b41-aa1a-4464-b9df-1eee31eb59dd) |
 
+![Screenshot 2025-02-19 133322](https://github.com/user-attachments/assets/dba1fdca-2c82-4961-a00c-6d78a7f1546c)
+![Screenshot 2025-02-19 133338](https://github.com/user-attachments/assets/af80707f-abe1-40b5-ab06-2d6a542111bd)
+
 ## 🚦 Prerequisites
 
 - Node.js ≥16.x
@@ -60,9 +63,9 @@ A full-stack social media application built with modern web technologies, enabli
 ## 🛠️ Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/socialsphere.git
-cd socialsphere
+# Clone repository 
+git clone [https://github.com/yourusername/socialsphere.git](https://github.com/GunaSathwika/Social-Web-App-Mern-Stack.git)
+cd Social-Web-App-Mern-Stack
 
 # Install backend dependencies
 cd server
